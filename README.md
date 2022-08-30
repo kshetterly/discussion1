@@ -1,2 +1,2 @@
-# Discussion1
+# discussion1
 <h1>Kagan Shetterly</h1>
